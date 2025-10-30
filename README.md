@@ -37,6 +37,19 @@ racebrain/
 
 ---
 
+🧪 Current Development Roadmap
+- Define project scope and architecture
+- Collect F1 telemetry datasets (via FastF1 or Kaggle)
+- Build data preprocessing pipeline
+- Develop ML baseline models
+- Create interactive visualization dashboard
+- Deploy on Streamlit Cloud
+ 
+📊 Example Outputs (coming soon)
+- Race outcome prediction vs. actual
+- Pit stop strategy recommendation
+- Telemetry comparison plots
+
 ## 🔮 Future Plans
 - Add live prediction dashboard (Streamlit or Flask)
 - Integrate real-time race telemetry
