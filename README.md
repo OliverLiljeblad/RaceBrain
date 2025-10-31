@@ -58,11 +58,11 @@ racebrain/
 ---
 
 ## 🧑‍💻 Author
-**Oliver (OByte-Tech)**  
-📧 your.email@example.com  
+**Oliver**  
+📧 oliver.liljeblad@live.com  
 💼 GitHub | LinkedIn
 
 ---
 
 ## 📜 License
-MIT License © 2025 OByte-Tech
+MIT License © 2025
