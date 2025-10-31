@@ -60,7 +60,7 @@ racebrain/
 ## 🧑‍💻 Author
 **Oliver**  
 📧 oliver.liljeblad@live.com  
-💼 GitHub | LinkedIn
+💼 https://github.com/OliverLiljeblad | https://www.linkedin.com/in/oliver-liljeblad-519021227/ 
 
 ---
 
