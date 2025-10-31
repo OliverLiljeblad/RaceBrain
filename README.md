@@ -4,6 +4,10 @@
 It applies **machine learning** and **data analytics** to estimate driver finishing positions, team performance, and probability-based race scenarios.
 
 ---
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
 ## 🚀 Features
 - Fetches and preprocesses data from **Ergast F1 API** and **Kaggle datasets**.
