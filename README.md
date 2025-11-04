@@ -3,6 +3,9 @@
 **RaceBrain** is an AI-powered project that predicts Formula 1 race outcomes using live and historical race data.  
 It applies **machine learning** and **data analytics** to estimate driver finishing positions, team performance, and probability-based race scenarios.
 
+🚧 **Work in Progress**  
+This project is actively being developed. Features may change or break unexpectedly.
+
 ---
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
